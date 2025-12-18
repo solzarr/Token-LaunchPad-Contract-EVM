@@ -4,8 +4,6 @@ XPAD is a next-generation **Ethereum-based token launchpad** inspired by the Sol
 
 Check out the live platform here: [XPAD.fun](https://xpad.fun/)
 
-<img width="1893" height="903" alt="Screenshot_1" src="https://github.com/user-attachments/assets/6ce3df8d-1120-4297-b8a5-fc7729946bd7" />
-
 ---
 
 ## 🌟 Key Features
@@ -82,7 +80,7 @@ Check out the live platform here: [XPAD.fun](https://xpad.fun/)
 ## 📈 **Platform Links**
 
 - Live Platform: [XPAD.fun](https://xpad.fun/)
-- Smart Contract Repository: *(https://github.com/HyperBuildX/EVM-Token-Launchpad-Contract)*
+- Smart Contract Repository: *(https://github.com/solzarr/Token-LaunchPad-Contract-EVM)*
 
 ---
 
@@ -110,12 +108,7 @@ Check out the live platform here: [XPAD.fun](https://xpad.fun/)
 ## 🤝 Support
 
 If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-- E-Mail: admin@hyperbuildx.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+- X(twitter): [solzarr](https://x.com/0xmarcus0401)
+- Telegram: [solzarr](https://t.me/bettyjk_0915)
 
 ---
-
-XPAD brings the **best of decentralized token launch mechanics** to Ethereum, combining **automation, gamification, and optimized trading** for creators and traders alike.
-
-
-
