@@ -113,7 +113,7 @@ Explore the live platform here: [XPAD.fun](https://xpad.fun/)
 For questions, support, or custom development requests, please contact us:
 
 - **Twitter:** [solzarr](https://x.com/0xmarcus0401)  
-- **Telegram:** [solzarr](https://t.me/bettyjk_0915)  
+- **Telegram:** [solzarr](https://t.me/solzarr)  
 
 ---
 
