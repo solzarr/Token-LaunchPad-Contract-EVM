@@ -3,9 +3,7 @@
 
 # XPAD - EVM Token Launchpad
 
-XPAD is a next-generation **Ethereum-based token launchpad** inspired by Solana's PumpFun platform. Designed to empower creators and traders, XPAD offers a seamless, feature-rich, and fully automated token launch and trading ecosystem. Unlike traditional launchpads, XPAD.Ethereum provides **customizable features**, optimized performance, and an intuitive user experience for both token developers and traders.
-
-Explore the live platform here: [XPAD.fun](https://xpad.fun/)
+This is a next-generation **Ethereum-based token launchpad** inspired by Solana's PumpFun platform. Designed to empower creators and traders, XPAD offers a seamless, feature-rich, and fully automated token launch and trading ecosystem. Unlike traditional launchpads, XPAD.Ethereum provides **customizable features**, optimized performance, and an intuitive user experience for both token developers and traders.
 
 ---
 
